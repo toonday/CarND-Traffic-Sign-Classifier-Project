@@ -47,12 +47,9 @@ signs data set:
 * The shape of a traffic sign image is (32, 32, 3)
 * The number of unique classes/labels in the data set is 43
 
-[NOT ANSWERED]
-A good exploratory visualization point can be to explore how many classes I have represented in my data set.
-Which might show my model having a bias of identifying certain classes and not others
 ####2. Include an exploratory visualization of the dataset.
 
-Here is an exploratory visualization of the data set. It is a bar chart showing how the data ...
+Here is an exploratory visualization of the data set. It is a bar chart showing the representation of classes/labels in the training data set
 
 ![alt text][image1]
 
